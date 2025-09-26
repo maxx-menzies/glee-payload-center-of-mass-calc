@@ -1,5 +1,7 @@
 Rocksat summer 2025
+
 Maxx Menzies
+
 Used to determine how much the center of mass will shift as lunasats deploy. If it exceeds the allowed range then it returns a warning.
 
 %adjustable parameters
